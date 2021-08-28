@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Java Script / Python / SQL / Jupiter Networks
 - 🌱 I’m currently learning ... Java Script  / Programação orientada a objetos /  SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://www.linkedin.com/in/zipolli/ / leofigzip@hotmail.com
 
 
 <!---
