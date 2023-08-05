@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Zipolli
-- 👀 I’m interested in ... Java Script / Python / SQL / Jupiter Networks
-- 🌱 I’m currently learning ... Java Script  / Programação orientada a objetos /  SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://www.linkedin.com/in/zipolli/ / leofigzip@hotmail.com
-
-
-<!---
-Zipolli/Zipolli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Oi, eu sou o Leonardo Zipolli 
+Sou estudante de Data Science (Python)
+Analista de FinOps
+Engenheiro da Computação 
+Apaixonado por tecnologia. 
+Explorando dados e criando soluções inovadoras. 
+Bem-vindo ao meu GitHub! 😄🚀
